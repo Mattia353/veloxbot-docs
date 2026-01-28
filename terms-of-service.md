@@ -1,6 +1,6 @@
 # Terms of Service - VeloxBot
 
-**Effective Date:** [TODAY'S DATE]
+**Effective Date:** 28/01/2026
 
 ## 1. Acceptance of Terms
 
@@ -118,8 +118,8 @@ Before taking legal action:
 ## 9. Contact & Support
 
 ### 9.1 Primary Contact
-- **Email:** [YOUR EMAIL HERE]
-- **Discord Support Server:** [YOUR SUPPORT SERVER LINK]
+- **Email:**
+- **Discord Support Server:**
 
 ### 9.2 Response Times
 - **General Support:** 1-3 business days
