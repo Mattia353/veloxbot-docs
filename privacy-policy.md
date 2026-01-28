@@ -1,6 +1,6 @@
 # Privacy Policy - VeloxBot
 
-**Last Updated:** [TODAY'S DATE]
+**Last Updated:** 28/01/2026
 
 ## 1. Introduction
 
@@ -51,7 +51,7 @@ We retain your data for:
 ### 4.2 Data Deletion
 To request data deletion:
 1. Remove VeloxBot from your server, OR
-2. Contact us at: [YOUR EMAIL HERE]
+2. Contact us at: 
 3. All data will be deleted within 14 days
 
 ## 5. Data Sharing & Third Parties
@@ -110,8 +110,8 @@ We may update this policy to:
 ## 9. Contact Information
 
 For privacy concerns or data requests:
-- **Developer Email:** [YOUR EMAIL HERE]
-- **Support Discord:** [YOUR SUPPORT SERVER LINK]
+- **Developer Email:** 
+- **Support Discord:**
 - **Response Time:** 1-3 business days
 
 ---
